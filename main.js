@@ -47,3 +47,7 @@ function animate() {
 }
 
 animate();
+
+function hej(){
+    console.log('janne');
+}
